@@ -1,6 +1,6 @@
 export const projects = [
     {
-        image: "assets/tooling.JPG",
+        image: "assets/tooling.jpg",
         title: "3D Printed Tooling For Silicone Moulding",
         description: `
           <strong>Developing tooling for complex geometries.</strong> <br /><br />
@@ -11,7 +11,7 @@ export const projects = [
         `
       },
     {
-        image: "assets/leicester-demo.png",
+        image: "assets/leicester-demo.jpg",
         title: "Prototype Demo at Leicester Football Club",
         description: `
           <strong>Showcasing a prototype device to expert users.</strong> <br /><br />
