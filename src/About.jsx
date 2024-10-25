@@ -12,7 +12,7 @@ const About = () => {
       {/* Personal Profile Paragraph */}
       <p className="personal-profile">
       I'm Ruari, a first class aeronautical engineering masters graduate from The University of Leeds. 
-      I am currently working as a design engineer in medical and life science industry at Lucid Innovation, a UK SME. 
+      I am currently working as a design engineer in the medical and life science industry at Lucid Innovation, a UK SME. 
       I am a versatile engineer with experience in software development, 
       design & manufacture and data analysis applied to fully connected medical devices. 
       I strive to be an integral team member, and have contributed to numerous technical projects in medical engineering; 
